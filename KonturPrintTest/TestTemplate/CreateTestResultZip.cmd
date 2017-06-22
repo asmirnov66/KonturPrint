@@ -1,0 +1,1 @@
+copy /Y "TestResult.docx" "TestResult.zip" 
